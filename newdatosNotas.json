@@ -1,0 +1,88 @@
+[{
+  "_id": {
+    "$oid": "6690b69313d24a1d4609b02f"
+  },
+  "alumno": "Darwin",
+  "nota": 10,
+  "ranking": 10
+},
+{
+  "_id": {
+    "$oid": "6690b69313d24a1d4609b030"
+  },
+  "alumno": "Manolo",
+  "nota": 4,
+  "ranking": 500
+},
+{
+  "_id": {
+    "$oid": "6690b69313d24a1d4609b031"
+  },
+  "alumno": "Melba",
+  "nota": "3,5",
+  "ranking": 380
+},
+{
+  "_id": {
+    "$oid": "6690b69313d24a1d4609b032"
+  },
+  "alumno": "Esperanza",
+  "nota": 5,
+  "ranking": 250
+},
+{
+  "_id": {
+    "$oid": "6690b69313d24a1d4609b033"
+  },
+  "alumno": "Sabine",
+  "nota": 6,
+  "ranking": 200
+},
+{
+  "_id": {
+    "$oid": "6690b69313d24a1d4609b034"
+  },
+  "alumno": "Alejandra",
+  "nota": 7,
+  "ranking": 180
+},
+{
+  "_id": {
+    "$oid": "6690b69313d24a1d4609b035"
+  },
+  "alumno": "Camila",
+  "nota": "7,5",
+  "ranking": 150
+},
+{
+  "_id": {
+    "$oid": "6690b69313d24a1d4609b036"
+  },
+  "alumno": "Anahí",
+  "nota": 8,
+  "ranking": 130
+},
+{
+  "_id": {
+    "$oid": "6690b69313d24a1d4609b037"
+  },
+  "alumno": "Rayito",
+  "nota": 9,
+  "ranking": 100
+},
+{
+  "_id": {
+    "$oid": "6690b69313d24a1d4609b038"
+  },
+  "alumno": "Jack",
+  "nota": "9,2",
+  "ranking": 50
+},
+{
+  "_id": {
+    "$oid": "6690b69313d24a1d4609b039"
+  },
+  "alumno": "Isabel",
+  "nota": "5,5",
+  "ranking": 450
+}]
